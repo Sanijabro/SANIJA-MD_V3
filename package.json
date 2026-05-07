@@ -11,7 +11,7 @@
     "@adiwajshing/keyed-db": "latest",
     "@ffmpeg-installer/ffmpeg": "latest",
     "axios": "latest",
-      "@whiskeysockets/baileys": "^v7.0.0-rc.9",
+    "@whiskeysockets/baileys": "7.0.0",
     "buffer": "latest",
      "translate-google-api": "latest",
      "javascript-obfuscator": "latest",
